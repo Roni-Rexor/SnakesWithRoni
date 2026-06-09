@@ -58,7 +58,7 @@ python main.py
 
 ## Game Screenshot
 
-![Snake Game](images/screenshot.png)
+![Snake Game](images/game.png)
 
 ## Author
 
