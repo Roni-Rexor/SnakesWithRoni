@@ -55,10 +55,9 @@ pip install pygame
 ```bash
 python main.py
 ```
-
 ## Game Screenshot
 
-![Snake Game](images/game.png)
+<img src="images/game.png" width="500">
 
 ## Author
 
