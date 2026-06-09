@@ -56,6 +56,10 @@ pip install pygame
 python main.py
 ```
 
+## Game Screenshot
+
+![Snake Game](images/screenshot.png)
+
 ## Author
 
 **Roni Roy**  
